@@ -1,0 +1,3 @@
+v1
+{"path":"hdfs://namenode:8020/user/marcos/data/exercises-data/iris/bezdekIris.data","timestamp":1624485409569,"batchId":0}
+{"path":"hdfs://namenode:8020/user/marcos/data/exercises-data/iris/iris.data","timestamp":1624485409803,"batchId":0}
